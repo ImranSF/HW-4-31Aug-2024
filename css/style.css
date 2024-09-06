@@ -59,7 +59,10 @@
 	background-color: burlywood;
 }
 .item2{
+	
 	float: left;
+	text-align: center;
+	font-size: 20px;
 	width: 20%;
 	height: 400px;
 	background-color: chocolate;
