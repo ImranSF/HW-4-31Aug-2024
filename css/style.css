@@ -106,6 +106,7 @@
 .footer{
 	/*clear: both;*/
 	text-align: center;
+	font-size: 20px;
 	min-height:100px;
 	background-color: lightseagreen;
 }
