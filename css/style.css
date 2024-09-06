@@ -1,0 +1,108 @@
+.header{
+	text-align: center;
+	font-size: 50px;
+	height: 100px;
+	background-color: aliceblue;
+}
+
+.container{
+	overflow: hidden;
+	border: 5px solid #7b7d7d;
+}
+.blog{
+	
+	float: left;
+	text-align: center;
+	font-size: 40px;
+	width: 25%;
+	height: 130px;
+	background-color: goldenrod;
+}
+.contact{
+	float: left;
+	text-align: center;
+	font-size: 25px;
+	width: 25%;
+	height: 130px;
+	background-color: lightblue;
+}
+.contact2{
+	float: left;
+	text-align: center;
+	font-size: 40px;
+	width: 25%;
+	height: 130px;
+	background-color: cyan;
+}
+.contact3{
+	
+	float: left;
+	text-align: center;
+	width: 25%;
+	height: 130px;
+	background-color: chartreuse;
+}
+
+
+
+/*container2*/
+
+
+.container2{
+	overflow: hidden;
+	border: 3px solid red;
+}
+.item1{
+	float: left;
+	width: 20%;
+	height: 400px;
+	background-color: burlywood;
+}
+.item2{
+	float: left;
+	width: 20%;
+	height: 400px;
+	background-color: chocolate;
+}
+.item3{
+	float: left;
+	width: 20%;
+	height: 400px;
+	background-color: bisque;
+}
+
+
+
+
+.item4{
+	float: left;
+	width: 20%;
+	height: 400px;
+	background-color: slateblue;
+}
+.ytube{
+	width:100% ;
+	height:390px;
+	}
+
+
+.item5{
+	float: left;
+	width: 20%;
+	height: 400px;
+	background-color: pink;	
+}
+
+	    .gmap{
+    	width: 100%;
+    	height:380px;
+    	style: border=0;
+    }
+
+    
+.footer{
+	/*clear: both;*/
+	text-align: center;
+	min-height:100px;
+	background-color: lightseagreen;
+}
